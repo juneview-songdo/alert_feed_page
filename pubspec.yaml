@@ -1,7 +1,7 @@
 name: alert_feed_page
-description: "Description here"
+description: "alert feed page by june"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/alert_feed_page
 
 version: 1.0.0+1
 
